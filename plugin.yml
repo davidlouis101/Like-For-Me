@@ -2,7 +2,3 @@ name: Like-For-Me
 main: For-Me\Main
 api: [3.0.0, 4.0.0]
 author: Crow-Balde
-
- commands:
-  broadcast:
-   description: "Makes a "
