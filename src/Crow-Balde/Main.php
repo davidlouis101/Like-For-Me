@@ -1,9 +1,9 @@
 <?php
 
-namespace ;
+namespace Crow-Balde\Like-For-Me\Main;
 
 use pocketmine\plugin\PluginBase;
-use Crow\SimpleGM\command\Broadcast;
+use Crow-Balde\For-Me\command\Broadcast;
 
 class Main extends PluginBase{
 
